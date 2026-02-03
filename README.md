@@ -184,7 +184,7 @@
       <h2>YAY! I knew it!! 🎉</h2>
       <img
         class="fireworks"
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0xdnR2cWlscmlnaW4zeG1oaWpmNWl4bzhjbWNjY3BkdGxjajdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTGYXWFAFxVRWoBWkk/giphy.gif"
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hobzVvM3Y3NGFwandkN2x5Z2U5aW9jdjhyeHE2Y3ZpOXAxcHQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JeE18Naing7xTQFG1y/giphy.gif"
         alt="Fireworks"
       />
     </section>

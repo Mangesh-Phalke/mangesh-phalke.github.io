@@ -184,7 +184,7 @@
       <h2>YAY! 🎉</h2>
       <img
         class="fireworks"
-        src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0xdnR2cWlscmlnaW4zeG1oaWpmNWl4bzhjbWNjY3BkdGxjajdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTGYXWFAFxVRWoBWkk/giphy.gif"
         alt="Fireworks"
       />
     </section>

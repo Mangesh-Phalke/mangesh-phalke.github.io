@@ -181,7 +181,7 @@
     <div class="hint" id="hint">“No” seems a bit shy 😈</div>
 
     <section class="result" id="result">
-      <h2>YAY! 🎉</h2>
+      <h2>YAY! I knew it!! 🎉</h2>
       <img
         class="fireworks"
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0xdnR2cWlscmlnaW4zeG1oaWpmNWl4bzhjbWNjY3BkdGxjajdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTGYXWFAFxVRWoBWkk/giphy.gif"
@@ -294,7 +294,6 @@
       hint.style.display = "none";     // HIDE THE HINT
       result.style.display = "block";
       resizeConfettiCanvas();
-      fullScreenConfetti();
     });
   </script>
 </body>
